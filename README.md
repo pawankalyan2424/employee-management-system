@@ -48,3 +48,14 @@ cd frontend
 npm install
 npm start
 ```
+
+##  Screenshots
+
+### Login Page
+![Login](screenshots/Login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/AdminDashboard.png)
+
+### Employee Dashboard
+![Employee Dashboard](screenshots/EmployeeDashboard.png)
